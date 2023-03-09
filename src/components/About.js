@@ -44,7 +44,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   
-                  <a  id ='linktag' href='https://drive.google.com/file/d/1-3bbRw7ZNSSIHv_DuBA8P3K2PikKaGPa/view?usp=share_link' target="_blank" rel="noopener noreferrer"  className="card-body font-trebuchet text-justify ml-3 mr-3" style={{'font-size': '13px','padding-top':'100px'}}>Download the resume here</a>
+                  <a  id ='linktag' href='https://drive.google.com/file/d/1-3bbRw7ZNSSIHv_DuBA8P3K2PikKaGPa/view?usp=share_link' target="_blank" rel="noopener noreferrer" className="card-body font-trebuchet text-justify ml-3 mr-3" style={{'font-size': '15px','padding-top':'100px'}}>Resume</a>
                 </span>
               </div>
             </div>
