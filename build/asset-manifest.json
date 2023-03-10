@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portfolio-HarshilKhara/static/css/main.e883ff94.css",
+    "main.js": "/Portfolio-HarshilKhara/static/js/main.9a4560fd.js",
+    "index.html": "/Portfolio-HarshilKhara/index.html",
+    "main.e883ff94.css.map": "/Portfolio-HarshilKhara/static/css/main.e883ff94.css.map",
+    "main.9a4560fd.js.map": "/Portfolio-HarshilKhara/static/js/main.9a4560fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e883ff94.css",
+    "static/js/main.9a4560fd.js"
+  ]
+}

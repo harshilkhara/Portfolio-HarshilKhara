@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+//import { useRef, useEffect, useState } from "react";
 import {
   VerticalTimeline,
   VerticalTimelineElement,
@@ -6,8 +7,10 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
 
+
 class Experience extends Component {
   render() {
+    //const { isTimelineVisible } = this.state;
     if (this.props.resumeExperience && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.experience;
       var work = this.props.resumeExperience.map(function (work, i) {
@@ -27,10 +30,12 @@ class Experience extends Component {
               {technology}
             </Badge>
           );
+          
         });
         return (
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
+            //className={'vertical-timeline-element--work ${isTimelineVisible ? "animate"}'}
             //date={work.years}
             //style={{'fontSize': '20px'}}
             date={<div style={{'fontSize': '16px'}}>{work.years}</div>}
@@ -39,8 +44,9 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-work experience-icon"></i>}
+            icon={<i className="fab fa-work experience-icon">{work.experienceNo}</i>}
             key={i}
+            //ref={el=>(this.timelineRef=el)}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
               {mainTech}
@@ -48,7 +54,7 @@ class Experience extends Component {
 
             <h3
               className="vertical-timeline-element-title"
-              style={{ textAlign: "left" }}
+              style={{ textAlign: "left", marginBottom: "15px" }}
             >
               {work.title}
             </h3>
