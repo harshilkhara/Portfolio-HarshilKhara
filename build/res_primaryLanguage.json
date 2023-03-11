@@ -85,18 +85,16 @@
       "years": "05/2022 - 09/2022",
       "experienceNo":"3", 
       "mainTech": [
-        "Java"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Python",
+        "Flask",
+        "React.js",
+        "MySQL",
+        "Rasa",
+        "Java Modules",
+        "Bash Scripts",
+        "Linux"
       ]
     },
     {
@@ -107,26 +105,31 @@
       "mainTech": [
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Java",
+        "Python",
+        "AWS",
+        "React.js",
+        "Node.js",
+        "Flask",
+        "Postgresql",
+        "Apache Airflow",
+        "Docker"
       ]
     },
     {
       "company": "Suven Consultants",
       "title": "Full Stack Developer Intern",
-      "years": "05/2019 - 12/2019",
+      "years": "05/2019 - 01/2020",
       "experienceNo":"1",
       "mainTech": [
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Python",
+        "Flask",
+        "MongoDB",
+        "Golang",
+        "REST API",
+        "Kubernetes"
       ]
     }
   ]
