@@ -72,13 +72,23 @@
         "level": "95"
       },
       {
-        "name": "MongoDb",
-        "class": "devicon-mongodb-plain",
+        "name": "Bash Scripting",
+        "class": "devicon-bash-plain",
         "level": "95"
       },
       {
-        "name": "Bash Scripting",
-        "class": "devicon-bash-plain",
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "95"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "95"
+      },
+      {
+        "name": "Kubernetes",
+        "class": "devicon-kubernetes-plain",
         "level": "95"
       },
       {
