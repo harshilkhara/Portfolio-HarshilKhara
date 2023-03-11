@@ -11,26 +11,25 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Food Expiration Tracker",
+      "startDate": "2022",
+      "description": "An app for tracking when your food expires!",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/freshi/freshi.png"
       ],
-      "url": "",
+      "url": "https://github.com/tliss/freshi-app",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-flask-plain",
+          "name": "Flask"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-python-plain",
+          "name": "Python"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-postgresql-plain",
+          "name": "Postgresql"
         }
       ]
     },
