@@ -40,8 +40,8 @@ class Experience extends Component {
             //style={{'fontSize': '20px'}}
             date={<div style={{'fontSize': '16px'}}>{work.years}</div>}
             iconStyle={{
-              background: "#AE944F",
-              color: "#fff",
+              background: "#fff",
+              color: "#000000",
               textAlign: "center",
             }}
             icon={<i className="fab fa-work experience-icon">{work.experienceNo}</i>}
@@ -86,8 +86,8 @@ class Experience extends Component {
             {work}
             <VerticalTimelineElement
               iconStyle={{
-                background: "#AE944F",
-                color: "#fff",
+                background: "#fff",
+                color: "#000000",
                 textAlign: "center",
               }}
               icon={

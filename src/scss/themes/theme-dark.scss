@@ -11,7 +11,8 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      //color: #3C342C;
+      color:#dea6f5;
       opacity: 0.8;
    }
 
@@ -20,7 +21,8 @@ body[data-theme="dark"] {
    }
 
    .language {
-      background-color: #494949;
+      //background-color: #494949;
+      background-image: linear-gradient(to right, #7c3c96 , #000000);
    }
 
    .link-href {
@@ -33,14 +35,16 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      //background-color: #494949;
+      background-image: linear-gradient(to right, #7c3c96 , #000000);
       h1 {
          color: white;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #252323;
+      //background-image: linear-gradient(to right, #6c6a6d , #000000);
       h1 span {
          color: white;
       }
@@ -58,7 +62,8 @@ body[data-theme="dark"] {
    }
 
    #portfolio {
-      background: #5b5b5b;
+      //background: #5b5b5b;
+      background-image: linear-gradient(to right, #7c3c96 , #000000);
       .section-title {
          color: white !important;
       }
@@ -72,7 +77,8 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      //background: #5b5b5b;
+      background-image: linear-gradient(to right, #7c3c96 , #000000);
       .section-title {
          color: white !important;
       }

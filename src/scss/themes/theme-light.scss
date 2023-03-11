@@ -2,6 +2,7 @@ body[data-theme="light"] {
     @import '../src/scss/light-slider.scss';
  
     .slider-tab {
-       background-color: #D7CAAA;
+       //background-color: #D7CAAA;
+       background-image: linear-gradient(to right, #D9ECC7, #07A3B2)
     }
 }
