@@ -73,6 +73,11 @@
         "level": "95"
       },
       {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "95"
+      },
+      {
         "name": "Bash Scripting",
         "class": "devicon-bash-plain",
         "level": "95"
