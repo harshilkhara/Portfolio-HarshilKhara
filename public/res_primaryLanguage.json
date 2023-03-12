@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Harshil Khara. Passionate, analytical, and results-oriented professional with 2.5+ years of experience in Full Stack and Data Engineering. Proficient in developing and deploying highly scalable and distributed software applications. Strong problem-solving skills along with an ability to thrive in agile environments and collaborate with cross-functional teams. My interests include Coding, Chess, Fitness, FC Barcelona (Soccer), Cooking, Reading, Macroeconomics and Traveling",
+    "description": "👋 I'm Harshil Khara. Passionate, analytical, and results-oriented professional with 2.5+ years of experience in Full Stack and Data Engineering. Proficient in developing and deploying highly scalable and distributed software applications. Strong problem-solving skills along with an ability to thrive in agile environments and collaborate with cross-functional teams. My interests include Coding, Chess, Fitness, FC Barcelona (Soccer), Cooking, Reading, Macroeconomics and Traveling.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -100,7 +100,8 @@
         "Rasa",
         "Java Modules",
         "Bash Scripts",
-        "Linux"
+        "Linux",
+        "Git"
       ]
     },
     {
@@ -119,7 +120,8 @@
         "Flask",
         "Postgresql",
         "Apache Airflow",
-        "Docker"
+        "Docker",
+        "Apache Lucene"
       ]
     },
     {
@@ -132,6 +134,7 @@
       "technologies": [
         "Python",
         "Flask",
+        "Angular.js",
         "MongoDB",
         "Golang",
         "REST API",
