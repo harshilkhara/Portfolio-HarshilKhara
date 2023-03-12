@@ -38,14 +38,14 @@
       "startDate": "2018",
       "description": "Personal project for study subject. I was responsible for building a chatbot for my college website application that also scrapes the data from website in real time and uses NLP to relay information.",
       "images": [
-        "images/portfolio/chatbot/p1.jpg",
-        "images/portfolio/chatbot/p2.jpg",
-        "images/portfolio/chatbot/p3.jpg"
+        "images/portfolio/chatbot/p1.png",
+        "images/portfolio/chatbot/p2.png",
+        "images/portfolio/chatbot/p3.png"
       ],
       "url": "https://github.com/harshilkhara/College-Chatbot",
       "technologies": [
         {
-          "class": "devicon-javascript-original",
+          "class": "devicon-javascript-plain",
           "name": "JavaScript"
         },
         {
@@ -63,8 +63,8 @@
       "startDate": "2015",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
       ],
       "url": "https://github.com",
       "technologies": [
@@ -92,6 +92,7 @@
       "mainTech": [
       ],
       "technologies": [
+        "Java",
         "Python",
         "Flask",
         "React.js",
