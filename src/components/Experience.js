@@ -54,7 +54,7 @@ class Experience extends Component {
 
             <h3
               className="vertical-timeline-element-title"
-              style={{ textAlign: "left", marginBottom: "15px" }}
+              style={{ textAlign: "left", marginBottom: "20px" }}
             >
               {work.title}
             </h3>
