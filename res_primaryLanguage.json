@@ -36,20 +36,25 @@
     {
       "title": "College Website Chatbot",
       "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "Personal project for study subject. I was responsible for building a chatbot for my college website application that also scrapes the data from website in real time and uses NLP to relay information.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/chatbot/p1.jpg",
+        "images/portfolio/chatbot/p2.jpg",
+        "images/portfolio/chatbot/p3.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/harshilkhara/College-Chatbot",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-javascript-original",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         }
       ]
     },
