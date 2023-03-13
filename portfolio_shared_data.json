@@ -72,6 +72,13 @@
         "class": "devicon-c-plain",
         "level": "95"
       },
+
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain",
+        "level": "95"
+      },
+
       {
         "name": "MongoDB",
         "class": "devicon-mongodb-plain",
