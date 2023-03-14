@@ -13,7 +13,7 @@
     {
       "title": "Food Expiration Tracker",
       "startDate": "2022",
-      "description": "An app for tracking when your food expires!",
+      "description": "Developed a web app to track food nutrition and expiration dates and send out automatic alerts on expiration, using Flask, Python, PostgreSQL, and automated bash scripting",
       "images": [
         "images/portfolio/freshi/freshi.png"
       ],
@@ -30,6 +30,10 @@
         {
           "class": "devicon-postgresql-plain",
           "name": "Postgresql"
+        },
+        {
+          "class": "devicon-bas-plain",
+          "name": "Bash Scripting"
         }
       ]
     },
