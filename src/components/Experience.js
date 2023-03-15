@@ -44,7 +44,7 @@ class Experience extends Component {
               color: "#000000",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-work experience-icon">{work.experienceNo}</i>}
+            icon={<i className="fab fa-work experience-icon"></i>}
             key={i}
             //ref={el=>(this.timelineRef=el)}
           >
