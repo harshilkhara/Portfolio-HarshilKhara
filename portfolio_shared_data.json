@@ -13,7 +13,6 @@
         "url": "http://www.linkedin.com/in/harshil-khara",
         "class": "fab fa-linkedin"
       }
-      
     ],
     "image": "myProfile.jpg"
   },
@@ -38,7 +37,7 @@
       },
 
       {
-        "name": "Postgresql",
+        "name": "PostgreSQL",
         "class": "devicon-postgresql-plain",
         "level": "85"
       },
