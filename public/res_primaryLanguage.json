@@ -1,8 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Harshil Khara. Passionate, analytical, and results-oriented professional with 2.5+ years of experience in Full Stack and Data Engineering. Proficient in developing and deploying highly scalable and distributed software applications. Strong problem-solving skills along with an ability to thrive in agile environments and collaborate with cross-functional teams. My interests include Coding, Chess, Fitness, FC Barcelona (Soccer), Cooking, Reading, Macroeconomics and Traveling.",
-    "section_name": {
+    "description": "👋 , Hi there, I'm Harshil. Originally from Mumbai, India, I got my Master's degree in Computer Science from Boston University. Starting off as a Full Stack Intern within the tech consulting space, I further explored my interests and grew my skill set working full-time as a Full Stack Software Engineer. I was fortunate enough to be able to work on multi-faceted projects that helped me grow and build my knowledge in Cloud Computing, Backend and Data Engineering. Being entrepreneurial at heart, I like to first understand the business requirements to come up with use cases that form the basis of any product I develop. As a product-focused engineer, I also strongly believe in maintaining great relationships with customers to be able to truly empathize with their pain points and deliver quality products. In my free time, you’ll find me playing soccer, chess, or exploring different cuisines and cultures in New York City. My other interests include fitness, macroeconomics, reading, and cooking (a whisk I was willing to take 😁).",
       "about": "About me",
       "projects": "Projects",
       "skills": "Skills",
@@ -29,7 +28,7 @@
         },
         {
           "class": "devicon-postgresql-plain",
-          "name": "Postgresql"
+          "name": "PostgreSQL"
         },
         {
           "class": "devicon-bash-plain",
@@ -103,7 +102,7 @@
         "MySQL",
         "Rasa",
         "Java Modules",
-        "Bash Scripts",
+        "Bash",
         "Linux",
         "Git"
       ]
@@ -122,7 +121,7 @@
         "React.js",
         "Node.js",
         "Flask",
-        "Postgresql",
+        "PostgreSQL",
         "Apache Airflow",
         "Docker",
         "Apache Lucene"
@@ -142,6 +141,7 @@
         "MongoDB",
         "Golang",
         "REST API",
+        "CLI",
         "Kubernetes"
       ]
     }
