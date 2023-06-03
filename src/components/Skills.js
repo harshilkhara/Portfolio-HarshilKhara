@@ -1,6 +1,37 @@
 import React, { Component } from "react";
+//import { useEffect } from 'react';
 
 class Skills extends Component {
+  constructor(props) {
+    super(props);
+    this.sectionRef = React.createRef();
+    this.observer = null;
+  }
+
+  componentDidMount() {
+    // Create IntersectionObserver and observe the section
+    this.observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("show");
+        } else {
+          entry.target.classList.remove("show");
+        }
+      });
+    });
+
+    if (this.sectionRef.current) {
+      this.observer.observe(this.sectionRef.current);
+    }
+  }
+
+  componentWillUnmount() {
+    // Destroy IntersectionObserver
+    if (this.observer) {
+      this.observer.disconnect();
+    }
+  }
+
   render() {
     if (this.props.sharedSkills && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.skills;
@@ -25,14 +56,14 @@ class Skills extends Component {
     }
 
     return (
-      <section id="skills">
+      <section ref={this.sectionRef} className= "hidden" id="skills">
         <div className="col-md-12">
           <div className="col-md-12">
             <h1 className="section-title">
               <span className="text-white">{sectionName}</span>
             </h1>
           </div>
-          <div className="col-md-12 text-center">
+          <div className="ol-md-12 text-center">
             <ul className="list-inline mx-auto skill-icon">{skills}</ul>
           </div>
         </div>

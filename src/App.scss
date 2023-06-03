@@ -383,7 +383,7 @@ header h1 {
 	}
 }
 
-#skills {
+#skills{
 	background: #1F1F1F;
 	min-height: 200px;
 	width: 100%;
@@ -432,4 +432,22 @@ footer a:focus {
 .social-links {
 	margin-top: 50px;
 	font-size: 22px;
+}
+
+@media(prefers-reduced-motion){
+	.hidden{
+		transition: none;
+	}
+}
+section#skills.hidden{
+	opacity: 0;
+	filter: blur(5px);
+	transform: translateX(-100%);
+  	transition: all 0.8s;
+}
+
+section#skills.show{
+	opacity: 1;
+	filter:blur(0);
+	transform: translateX(0);
 }
