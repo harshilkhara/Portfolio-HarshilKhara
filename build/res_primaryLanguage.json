@@ -89,6 +89,25 @@
   ],
   "experience": [
     {
+      "company": "Students Landing Inc",
+      "title": "Full Stack Software Developer",
+      "years": "March 2023 - Present",
+      "experienceNo":"4", 
+      "mainTech": [
+      ],
+      "technologies": [
+        "Java",
+        "Spring",
+        "Angular.js",
+        "TypeScript",
+        "PostgreSQL",
+        "AWS",
+        "Flutter",
+        "Dart",
+        "Git"
+      ]
+    },
+    {
       "company": "DC Infotech",
       "title": "Software Engineer Intern",
       "years": "May 2022 - September 2022",
